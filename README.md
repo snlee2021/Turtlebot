@@ -9,6 +9,8 @@ https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/
 
 https://emanual.robotis.com/docs/en/platform/turtlebot3/autonomous_driving/
 
+source ~/catkin_ws/devel/setup.bash
+
 2. slam
 오로카에서 강의 듣기
 ROS Navigation(1. Basic Concept)
